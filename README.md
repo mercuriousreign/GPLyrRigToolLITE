@@ -10,3 +10,5 @@ Features :
 * Create layers based on all the bones from your armature
 * Create multiple layer by text
 * Delete multiple layer by text
+
+Note : This is an LITE version of the full addon, which can be found here : https://mercuryraven.gumroad.com/l/MIZrC
